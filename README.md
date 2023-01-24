@@ -17,8 +17,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-[![website](./img/discord-light.svg)](https://discord.gg/avance#gh-light-mode-only)
-[![website](./img/discord-dark.svg)](https://discord.gg/avance#gh-dark-mode-only)
 
 ### Languages and Tools:
 
