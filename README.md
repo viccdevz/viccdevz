@@ -1,27 +1,80 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi there, I'm a Full Stack Developer! 👋
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/j5vFU3gX96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viccdevz) 
-
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=viccdevz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=viccdevz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viccdevz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=viccdevz&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=viccdevz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Mobil uygulamalardan web teknolojilerine, oyun modlamadan (FiveM) sunucu altyapılarına kadar geniş bir yelpazede çözümler üretiyorum. Fikirleri koda, kodları yaşayan projelere dönüştürmeyi seviyorum.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=viccdevz&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Hakkımda
+- 🔭 Şu anda **LoveMetrics** (Flutter) ve **SkyPulse** projeleri üzerinde çalışıyorum.
+- 🏢 **[Codelium](https://codelium.net/)** çatısı altında yazılım projelerimi topluyor ve **[Hosticore](https://hosticore.net/)** ile hosting/sunucu çözümleri sunuyorum.
+- 🎮 **FiveM** geliştirme (Lua) konusunda tecrübeliyim; sunucu paketleri ve özel scriptler geliştiriyorum.
+- 🌱 Kotlin, Swift ve React ekosistemlerinde kendimi sürekli güncelliyorum.
+
+---
+
+### 🛠️ Tech Stack & Araçlar
+
+**Mobile Development**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+**Web & Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+**Backend, Game Dev & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/FiveM-F58025?style=for-the-badge&logo=fivem&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🌟 Girişimler & Projeler
+
+| Proje / Marka | Açıklama |
+| :--- | :--- |
+| **LoveMetrics** | Flutter ile geliştirilen, ilişki analizi ve sanal evcil hayvan özellikli mobil uygulama. |
+| **Hosticore** | Yüksek performanslı sunucu ve hosting çözümleri sağlayan girişimim. |
+| **Codelium** | Tüm yazılım projelerimi ve portfolyomu barındıran geliştirme çatısı. |
+| **FiveM Dev** | Özel scriptler, sunucu paketleri ve topluluk odaklı geliştirmeler. |
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADIN]&show_icons=true&theme=radical&hide_border=true&locale=tr" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADIN]&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" height="180"/>
+</div>
+
+---
+
+### 📫 İletişim
+
+<p align="left">
+<a href="https://discord.com/users/353477524061290506" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/alperen-yıldız-888426375/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:alperennyildiizz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://alpyy.com">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+</a>
+</p>
