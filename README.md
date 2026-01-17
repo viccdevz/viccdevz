@@ -56,8 +56,8 @@ Mobil uygulamalardan web teknolojilerine, oyun modlamadan (FiveM) sunucu altyap�
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADIN]&show_icons=true&theme=radical&hide_border=true&locale=tr" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADIN]&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=viccdevz&show_icons=true&theme=radical&hide_border=true&locale=tr" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viccdevz&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" height="180"/>
 </div>
 
 ---
