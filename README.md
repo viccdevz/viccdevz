@@ -53,9 +53,9 @@ Mobil uygulamalardan web teknolojilerine, oyun modlamadan (FiveM) sunucu altyap�
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 🏆 Başarımlarım
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viccdevz&theme=radical&hide_border=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=viccdevz&theme=radical&no-frame=true&column=7)
 
 ---
 
