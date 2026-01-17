@@ -53,12 +53,6 @@ Mobil uygulamalardan web teknolojilerine, oyun modlamadan (FiveM) sunucu altyap�
 
 ---
 
-### 👀 Profil Ziyaretçileri
-
-![Visitor Count](https://profile-counter.glitch.me/viccdevz/count.svg)
-
----
-
 ### 📫 İletişim
 
 <p align="left">
