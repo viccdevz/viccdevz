@@ -53,9 +53,9 @@ Mobil uygulamalardan web teknolojilerine, oyun modlamadan (FiveM) sunucu altyap�
 
 ---
 
-### 🏆 Başarımlarım
+### 👀 Profil Ziyaretçileri
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=viccdevz&theme=radical&no-frame=true&column=7)
+![Visitor Count](https://profile-counter.glitch.me/viccdevz/count.svg)
 
 ---
 
